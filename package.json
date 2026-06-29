@@ -1,0 +1,11 @@
+{
+  "name": "georgia-erlc-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.0"
+  }
+}
